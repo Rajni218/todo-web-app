@@ -7,7 +7,7 @@ Users can **register, login, create tasks, mark tasks complete, and delete tasks
 
 # Installation
 Run the following command to clone the repository
-
+https://github.com/Rajni218/todo-web-app.git
 ```
 Go to ```frontend``` and ```backend``` directory to install packages
 ```
